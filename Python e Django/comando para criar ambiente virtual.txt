@@ -1,0 +1,24 @@
+cd 'nome da pasta ' -> ir para diretorio
+
+Python -m venv 'nome do ambiente'-> criar o ambiente virtuaç
+
+navegue ate o diretorio 'nome do ambiente
+.\\Scripts\Activate.ps1
+
+pronto esta ativdiado o ambiente virtual!
+
+pip install django
+
+va apra a pasta do projeto 
+
+pip freeze para ver as pastas instaladas
+
+django-admin startproject hello_django
+
+no pycharm
+
+va em setting -> interpreter -> all more -> selecione a pasta scripts no python.exe, selecione, aplique e ok
+
+pronto pra uso
+
+manage.py -> idit configurações e em paramentros runserver e ok
